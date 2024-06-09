@@ -1,0 +1,8 @@
+*{  /*reseta os estilos que o navegador deixa pré dfinido na pagina*/
+    margin: 0;/*margem ente elementos */
+    padding: 0; /*espaçamento interno ao elemento*/
+    box-sizing: border-box; /*trabalhar com margins e paddins serão adicionados na largura e altura dos elementos*/
+}
+ul{
+    list-style: none;
+}

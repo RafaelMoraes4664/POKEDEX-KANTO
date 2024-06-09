@@ -1,0 +1,19 @@
+/*responsividade é um estilo de site que ele fique visualmente bonito e funcional nas tiferentes telas de dispositivos*/
+@media(max-width: 620px){
+    .cabecalho{
+        background-color: blue;
+        padding: 30px 0;
+    }
+    .persongens-slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+    .lista-pokemons{
+        height: 480px;
+    }
+}
